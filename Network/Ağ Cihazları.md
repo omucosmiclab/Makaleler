@@ -1,0 +1,1 @@
+# Bu makalenin düzenlenmesi Ayşegül Koca'ya aittir.

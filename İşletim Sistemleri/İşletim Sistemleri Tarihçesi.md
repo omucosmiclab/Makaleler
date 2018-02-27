@@ -1,0 +1,1 @@
+# Bu makalenin düzenlenmesi İbrahim Taş'a aittir.

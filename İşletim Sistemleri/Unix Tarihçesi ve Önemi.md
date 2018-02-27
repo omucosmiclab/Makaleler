@@ -1,0 +1,1 @@
+# Bu makalenin düzenlenmesi Kübranur Saruhan'a aittir.

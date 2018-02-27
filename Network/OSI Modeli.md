@@ -1,0 +1,1 @@
+# Bu makalenin düzenlenmesi Burcu Söylemez'e aittir.

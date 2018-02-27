@@ -1,0 +1,1 @@
+# Bu makalenin düzenlenmesi Nur Temiz'e aittir.
