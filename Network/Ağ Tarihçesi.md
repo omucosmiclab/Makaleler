@@ -9,13 +9,13 @@
 </p>
 <p> 1983 yılı Internet'in deneysel olmaktan çıktığı yıldır. Bu yıldan sonra sivillerin de kullanmasına izin verilen ARPANET, Berkeley Üniversitesinin ARPA tarafından desteklenen BSD (Berkeley Software Distribution) isimli projesiyle daha da yaygınlaşmıştır. 1983'te tüm ARPANET kullanıcıları İletim Kontrol Protokolü/Internet Protokolü (TCP/IP) olarak bilinen yeni protokole geçiş yaptılar.
 </p>
-<p> O yıl TCP/IP, ARPANET'i de içeren Savunma Bakanlığı Internet'inde kullanılmak üzere standartlaştırıldı. ARPANET, Haziran 1990'da kullanımdan kaldırıldı. Amerikan Ulusal Bilim Vakfı'nın (National Science Foundation -NSF) ve ARPA’nın katkılarıyla 1985'de üniversite ve araştırma merkezlerinin kullanımı için NSFNET isimli ağ kurulmuştur. Bu durum bilgisayar ağlarının özellikle Avrupa’nın gelişmiş ülkelerinde de yaygınlaşmasını sağlamıştır. </p>
+<p> O yıl TCP/IP, ARPANET'i de içeren Savunma Bakanlığı Internet'inde kullanılmak üzere standartlaştırıldı. Amerikan Ulusal Bilim Vakfı'nın (National Science Foundation -NSF) ve ARPA’nın katkılarıyla 1985'de üniversite ve araştırma merkezlerinin kullanımı için NSFNET isimli ağ kurulmuştur. Bu durum bilgisayar ağlarının özellikle Avrupa’nın gelişmiş ülkelerinde de yaygınlaşmasını sağlamıştır. ARPANET, Haziran 1990'da kullanımdan kaldırıldı.</p>
 
 <p> TCP/IP iletişim protokollerine paralel olarak, 1980'lerin başında başlayarak Uluslar arası Standartlar Organizasyonu (International Standards Organization), daha sonraki yıllarda, uluslar arası bir iletişim protokolleri standardı oluşturmuştur. Bu çalışma sonucunda Açık Sistemler Bağlantı modeli (Open Systems Interconnection - OSI) ortaya çıkmıştır. </p>
 
 <p> Askeri komuta kontrolü sağlamak amacıyla başlayan bu sistem, dünyanın her köşesiyle iletişim kurmamızı sağlayan ve hayatın her alanını etkileyen bir kavrama, internet kavramına dönüştü.</p>
- 
-<p> Bilgisayar ağlarındaki tarihsel gelişmeyi aşağıdaki şekilde de ifade edebiliriz: </p>
+
+ Bilgisayar ağlarındaki tarihsel gelişmeyi aşağıdaki şekilde de ifade edebiliriz:
 * Ana sistem-Terminal bağlantısı – 1960’lı yıllar ( IBM mainframe)
 * Işığın ağ iletişiminde kullanılmaya başlanması - 1970’li yıllar (Fiber Obtik Kablolar)
 * Paylaşılan ortamlı LAN uygulamları- 1980’li yıllardan itibaren (Ethernet)
