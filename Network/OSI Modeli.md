@@ -1,4 +1,4 @@
-﻿## **OSI(OPEN SYSTEMS INTERCONNECTION) REFERANS MODELİ**
+﻿# **OSI(OPEN SYSTEMS INTERCONNECTION) REFERANS MODELİ**
 
 Network alanında öğrendiğimiz bilgilerin yerine oturabilmesi için OSI referans modelini iyi anlamak gerekmekte. Bu yüzden olayların başına 
 dönüp "Neden böyle bir modele ihtiyaç duyulmuş?", "Kimler, ne zaman bu yapıyı oluşturmuşlar?" gibi sorulara kısaca değindikten ve tüm "Neden?" lerimizi
