@@ -11,12 +11,7 @@ GNU çekirdeğine Hurd ismi verilmiştir. HURD (Hird of Unix-Replacing Daemons),
 ## **Linux**
   Her şeyden önce Linux; işletim sistemi değildir, işletim sistemi çekirdeğidir. İşletim sistemi olarak değerlendirilen yapıya Linux dağıtımı denilmektedir. Çoğu Linux dağıtımının kendine ait uygulama indirme merkezi mevcuttur. Güvenli ve güncel uygulamaların temini buradan kolaylıkla sağlanılabilir. 
 
- Bir Linux dağıtımı:
- *Linux çekirdeği
- *GNU araçları
- *X pencere sistemi
- *Masaüstü ortamı
- gibi niteliklerin biraraya gelmesi ve koordine bir şekilde çalışmasını sağlayacak bir işletim sistemi anlamına gelmektedir.
+ Bir Linux dağıtımı: Linux çekirdeği, GNU araçları, X pencere sistemi, masaüstü ortamı  gibi niteliklerin biraraya gelmesi ve koordine bir şekilde çalışmasını sağlayacak bir işletim sistemi anlamına gelmektedir.
 
 Linux 'a ait kaynak dosyalar, dünyanın dört bir yanındaki kullanıcılar ile paylaşılmaktadır. Özgür yazılımın en iyi yönü bu olsa gerek, hatalar binlerce geliştiricinin test ve çözüm önerileri ile düzeltilmektedir. Linux dağıtımları diğer işletim sistemleri ile aynı sabit diske kurulabilir. Ayrıca sanal makina üzerinden de Linux kullanmak mümkündür. Linux diğer tüm işletim sistemlerine göre belirli bir donanım için daha hızlı destek verebilmektedir.	
 
