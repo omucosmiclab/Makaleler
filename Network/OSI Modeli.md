@@ -12,7 +12,7 @@ bir yapıya ihtiyaç duyulduğu açıktı. Kısıtlı ve seçici haberleşme yap
 harekete geçti ve 1984 yılında OSI referans modeline son şeklini verdi. 
 
 ### **OSI Nedir?**
-	 
+
 OSI referans modeli farklı donanımlara sahip cihazların birbirleriyle nasıl haberleşeceklerini belirten yapının bütünüdür. OSI referans modeli dünya üzerindeki tüm cihazlar için
 sabit yapıdadır. Network ya da cihaza bağlı olarak farklılık göstermez, standarttır. / adet katmandan oluşur. İki cihaz haberleşirken her bir gerekli adımda(Örneğin veriyi hedefe gönderme, 
 verinin görüntülenmesi, verinin işlenmesi, kimlik doğrulaması) belirli protokoller devreye girer. 7 katmanın her birinde bu protokoller rol oynar. Yani haberleşme
