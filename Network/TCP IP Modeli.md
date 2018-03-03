@@ -1,1 +1,13 @@
-# Bu makalenin düzenlenmesi Binnaz Demirçeviren'e aittir.
+TCP/IP
+======
+
+TCP/IP’nin Tarihçesi
+--------------------
+ 
+İnternetin tarihsel ve teknik standartları TCP/IP referans modelidir. Bu model Birleşik Devletler savunma bölümü tarafından üretilmiş bir modeldir. Tasarlanışının nedeni ise nükleer savaş dâhil her türlü şartta sürekli ayakta durabilen bir ağ yapısının istenmesiydi. Birleşik Devletler savunma bölümü, dünya üzerinde bulunan bakır kablo, mikrodalga, optik kablo ve uydu hattı kullanan farklı iletişim medyaları ile her şartta haberleşmeyi sağlayabilmek istiyordu. Bu şartlar TCP/IP modelinin tasarısını oldukça güçleştirdi.
+ 
+TCP/IP protokol grubu, 1970’lerin ortasında, Stanford Üniversitesi ve Bolt Beranek ve Newman (BB&N) tarafından geliştirilmiştir. Geliştirme, DoD’in DARPA bölümü tarafından desteklenmiştir. DARPA, ARPANET adı verilen ve devlet kuruluşları, üniversiteler ve araştırma kurumlarını paket anahtarlamalı ağlarla birbirine bağlama projesi üzerinde çalışmıştır. TCP/IP protokol grubu bu amaca yönelik olarak geliştirilmiştir.
+ 
+1978-1979’larda TCP/IP protokol grubunun büyük bir kısmı tamamlanmış ve DARPA, 1980’lerde Internet protokolünü ARPANET birimlerine yüklemeye ve kullanmaya başlamıştır. 1983 yılının Ocak ayında, DARPA, ARPANET’ e bağlanan tüm ağların internet kullanmasını zorunlu tutmuştur. İnternetin büyümesi ve kullanımı ile, ARPANET, küçük paket anahtarlamalı ağlardan, noktadan-noktaya telefon bağlantılarla hibrit ağlara dönüşmüştür. ARPANET terimi kullanılmaya devam etmektedir ve DoD’nin araştırma ve geliştirme amacı ile internetin bir parçası olarak uygulanmaktadır. IAB adındaki bir organizasyon, şu anda internet araştırmalarını organize etmektedir. IAB, DARPA tarafından kurulan ve internet araştırmalarını teşvik etmeye yönelik bir kuruluştur. Her IAB grubu, internet konularının bir parçası üzerinde çalışır. Bu çalışmaların sonuçları, çoğunlukla internetin işlevsel bir parçası hâline gelir.
+ 
+Şu anda internet üzerinde çalışan birçok protokol ve uygulama, RFC adı verilen bir dizi makale ile belgelenir. RFC kitaplığının bakımı ve jüriliği yapma görevi, Menio Park, California’da bulunan SRI Network Information Center (NIC) tarafından yürütülür. İnternet protokolünü konu alan her dokümanda, Unix BSD ve internet protokol birleşmesinin önemi vurgulanır. 1982’de, Unix BSD işletim sistemi üniversitelerin bilgisayar bölümlerinde çok popüler olan bir işletim sistemiydi. Ağ standardı olarak interneti kabul etmiştir. Unix BSD/internet birleşimi, her ikisinin de popülaritesini arttırmış ve bu durum günümüze kadar devam etmiştir. Amerika Birleşik Devletleri, kendisinin denetimi altında bulunan internet protokolü parçasının OSI referans modeli ile uyumlu olması için GOSIP  ile değiştirilmesini istemiştir. Buna rağmen TCP/IP’nin ticari kullanımı büyüyerek devam etmiştir.
