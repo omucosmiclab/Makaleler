@@ -1,1 +1,1 @@
-# Bu makalenin düzenlenmesi Mehmet Uyanık'a aittir.
+# Üzerinde çalışılıyor
