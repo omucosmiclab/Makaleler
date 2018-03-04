@@ -12,7 +12,7 @@ Zaman ilerledikçe farklı donanımlar, farklı ağ cihazları üretildi dolayı
 
 O yıl TCP/IP, ARPANET'i de içeren Savunma Bakanlığı Internet'inde kullanılmak üzere standartlaştırıldı. Amerikan Ulusal Bilim Vakfı'nın (National Science Foundation -NSF) ve ARPA’nın katkılarıyla 1985'de üniversite ve araştırma merkezlerinin kullanımı için **NSFNET** isimli ağ kurulmuştur. Bu durum bilgisayar ağlarının özellikle Avrupa’nın gelişmiş ülkelerinde de yaygınlaşmasını sağlamıştır. ARPANET, Haziran 1990'da kullanımdan kaldırıldı.
 
-TCP/IP iletişim protokollerine paralel olarak, 1980'lerin başında başlayarak **Uluslar arası Standartlar Organizasyonu (International Standards Organization)**, daha sonraki yıllarda, uluslar arası bir iletişim protokolleri standardı oluşturmuştur. Bu çalışma sonucunda Açık Sistemler Bağlantı modeli (Open Systems Interconnection - OSI) ortaya çıkmıştır.
+TCP/IP iletişim protokollerine paralel olarak, 1980'lerin başında başlayarak **Uluslar arası Standartlar Organizasyonu (International Standards Organization)**, daha sonraki yıllarda, uluslar arası bir iletişim protokolleri standardı oluşturmuştur. Bu çalışma sonucunda **Açık Sistemler Bağlantı Modeli (Open Systems Interconnection - OSI)** ortaya çıkmıştır.
 
 _Askeri komuta kontrolü sağlamak amacıyla başlayan bu sistem, dünyanın her köşesiyle iletişim kurmamızı sağlayan ve hayatın her alanını etkileyen bir kavrama, internet kavramına dönüştü._
 
