@@ -35,6 +35,8 @@ Bu katman verinin hangi yolla gönderileceği belirlenir. İletişim ortamının
 *OSI Modeli için https://github.com/omucosmiclab/Makaleler/blob/master/Network/OSI%20Modeli.md ziyaret edebilirsiniz
 
 
+Binnaz DEMİRÇEVİREN
+
 
 
 
