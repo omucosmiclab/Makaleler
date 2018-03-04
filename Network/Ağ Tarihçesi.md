@@ -28,3 +28,4 @@ _Askeri komuta kontrolü sağlamak amacıyla başlayan bu sistem, dünyanın her
 
 şeklinde özetlenebilir. 
 
+_**Nur Temiz**_
