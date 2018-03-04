@@ -15,30 +15,46 @@ Programın getirdiği kolaylığı yeterli bulmayan, assembly dilinin evrensel o
 
 1978 yılı Unix 7. sürümüyle gelişimini iki farklı çizgide gerçekteştirecekti: **BSD** ve **System V**.
 
-**BSD**
+### **BSD**
 
-Thompson’nun Kaliforniya Üniversitesi’ne misafir öğretim üyesi olarak gitmesiyle birlikte öğrencilerin UNIX’e olan ilgisi daha da artar. İşletim sisteminin kodu üzerinde iyileştirmelere   başlanır. Öğrencilerin çalışmaları sisteme  büyük fayda sağlar.Ortaya vi editörü, Pascal derleyici, C Shell gibi önemli fonksiyonlar çıkarırlar. UNIX’in  1977’den itibaren  Berkeley Software Distribution adı altında yayımlanmaya başlanır. Üç BSD dağıtımı 1993, 1995'te oluşturuldu. Dağıtımların hepsi Internet'ten özgürce indirilebilir.
+Thompson’nun Kaliforniya Üniversitesi’ne misafir öğretim üyesi olarak gitmesiyle birlikte öğrencilerin UNIX’e olan ilgisi daha da artar. İşletim sisteminin kodu üzerinde iyileştirmelere   başlanır. Öğrencilerin çalışmaları sisteme  büyük fayda sağlar.Ortaya vi editörü, Pascal derleyici, C Shell gibi önemli fonksiyonlar çıkarırlar. UNIX’in  1977’den itibaren  Berkeley Software Distribution adı altında yayımlanmaya başlanır. 
 
-* FreeBSD
-Kişisel bilgisayarlara odaklandı
-Daha geniş kullanıcıya sahiptir.
-
-* NetBSD
-Taşınabilirlik üzerinde duruldu.
-Daha çok platformu destekler
-
-* OpenBSD
-BSD'nin güvenliğini geliştirmeye odaklandı
+[**ARPA**](https://github.com/omucosmiclab/Makaleler/blob/master/Network/A%C4%9F%20Tarih%C3%A7esi.md)(Advanced Research Project Agency), Berkeley'in BSD (Berkeley Software Distribution) isimli projesini geliştirmek ve ARPANET'teki iletişim bozukluklarını da gidermek üzere yeni bir ağ kurmak için büyük bir sözleşme yaptılar. BSD üzerinde çalıştılar ve o kadar iyi çalıştı ki ARPA onu Arpanet araştırmaları için tercih edilen işletim sistemi olarak seçti. Unix, iletişim ağı sayesinde daha da hızla gelişti.
 
 
-**System V**
+### **System V**
 
 Unix'in ticari olarak devam edebileceğini düşündüğü için lisanslı hale getirdi. Değiştirilen özelliklerile daha güvenilir ve ve güçlü halidir. Birkaç yıl System V ticari olarak en çok desteklenen ürün oldu.Lisans hakkı Unix System Laboratories'e aittir. 
 
 
+**BSD ve System V üzerinden türetilenler:**
+
+BSD | System V
+--- | --- 
+Linux | AIX (IBM)
+NextStep | IRIX (Silicon Graphics)
+(NeXT) | HP-UX (HP)
+Sun OS 4.x | Sun OS 5.x/Solaris (SUN)
+ULTRIX (DEC) | SCO UNIXware
+
+Günümüzde BSD halen çalışmalarına devam etmektedir. Dağıtımların hepsi Internet'ten özgürce indirilebilir.
+
+* FreeBSD:
+Kişisel bilgisayarlara odaklandı
+Daha geniş kullanıcıya sahiptir.
+
+* NetBSD:
+Taşınabilirlik üzerinde duruldu.
+Daha çok platformu destekler
+
+* OpenBSD:
+BSD'nin güvenliğini geliştirmeye odaklandı
+ 
+
 **KAYNAKÇA**
-http://s3.eurecom.fr/~balzarot/softdev/material/0_1_unix_history.pdf
-http://e-bergi.com/y/c-ve-unix-tarihi/
-https://www.tech-worm.com/unix-nedir-unix-tarihi-gelisimi-linuxun-ortaya-cikisi/
+* http://s3.eurecom.fr/~balzarot/softdev/material/0_1_unix_history.pdf
+* http://e-bergi.com/y/c-ve-unix-tarihi/
+* https://www.tech-worm.com/unix-nedir-unix-tarihi-gelisimi-linuxun-ortaya-cikisi/
+
 
 Kübra Nur Saruhan
