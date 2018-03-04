@@ -1,3 +1,3 @@
 # Şifreleme Algoritmaları
 
-Düzenlenecektir.
+Üzerinde çalışılıyor.
