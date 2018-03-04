@@ -1,6 +1,6 @@
 ## **UNIX TARİHÇESİ VE ÖNEMİ**
 
-1960'lı yıllarda bilgisayarlar tek kullanıcı ve tek program olarak çalışmaktaydı. Bilim adamları birçok kullanıcının aynı anda bilgisayarları kullanabilesi üzerine düşünmeye başlarlar.(timesharing)
+1960'lı yıllarda bilgisayarlar tek kullanıcı ve tek program olarak çalışmaktaydı. Bilim adamları birçok kullanıcının aynı anda bilgisayarları kullanabilmesi üzerine düşünmeye başlarlar.(timesharing)
 
 1965'te **MULTICS**(MULtiplexed Information and Computing Service) adını verdikleri projeleriyle düşüncelerini gerçekleştirmek üzere çalışmalara başladılar. MIT, AT&T Bell Laboratuvarları ve GE(General Electric)'nin birlikte çalıştıkları bu projeyle UNIX'in temelleri atılmıştır.
 
@@ -24,7 +24,7 @@ Thompson’nun Kaliforniya Üniversitesi’ne misafir öğretim üyesi olarak gi
 
 ### **System V**
 
-Unix'in ticari olarak devam edebileceğini düşündüğü için lisanslı hale getirdi. Değiştirilen özelliklerile daha güvenilir ve ve güçlü halidir. Birkaç yıl System V ticari olarak en çok desteklenen ürün oldu.Lisans hakkı Unix System Laboratories'e aittir. 
+Unix'in ticari olarak devam edebileceğini düşündüğü için lisanslı hale getirdi. Değiştirilen özelliklerile daha güvenilir ve güçlü hale getirildi. Birkaç yıl System V ticari olarak en çok desteklenen ürün oldu.Lisans hakkı Unix System Laboratories'e aittir. 
 
 
 **BSD ve System V üzerinden türetilenler:**
@@ -40,15 +40,15 @@ ULTRIX (DEC) | SCO UNIXware
 Günümüzde BSD halen çalışmalarına devam etmektedir. Dağıtımların hepsi Internet'ten özgürce indirilebilir.
 
 * FreeBSD:
-Kişisel bilgisayarlara odaklandı
+Kişisel bilgisayarlara odaklandı.
 Daha geniş kullanıcıya sahiptir.
 
 * NetBSD:
 Taşınabilirlik üzerinde duruldu.
-Daha çok platformu destekler
+Daha çok platformu destekler.
 
 * OpenBSD:
-BSD'nin güvenliğini geliştirmeye odaklandı
+BSD'nin güvenliğini geliştirmeye odaklandı.
  
 
 **KAYNAKÇA**
