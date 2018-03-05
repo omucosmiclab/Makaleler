@@ -16,7 +16,7 @@
 
 3. **Bridge**
 
-	*TODO*
+	En az iki, bağımsız, aynı protokolü kullanan ağları birbirine bağlayarak sanki tek bir ağ imiş gibi davranmalarını sağlar. Aynı bridge'e bağlanan farklı ağlardaki cihazlar birbirine veri göndermek isterse bridge verileri inceler ve adreslerini kontrol eder. Adres, karşı ağda bulunuyorsa üzerinden geçmesine izin verir. İşte faydalı olduğu noktası burasıdır. Eğer gönderilecek verinin adresi, bridge'e bağlı diğer ağlardan birinde değilse, yani kendi bulunduğu ağ içerisinde ise trafiğe katılmaz. Böylece performans kazandırmış olur.
 
 4. **Router**
 
