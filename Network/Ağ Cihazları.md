@@ -8,7 +8,11 @@
 
 2. **Switch**
 	
-	*TODO*
+	Temel mantığı hub gibi paylaşım yolu sunmaktır. Tek farkı **anahtarlama*** yapmasıdır. Anahtarlama sayesinde iki cihaz haberleşirken diğerleri de kendi aralarında haberleşebilir. Yani ağın boşalmasını beklemeden, ağı ortak kullanabilirler.  
+
+	*Anahtarlama tam olarak nedir? Bir veri gönderildiğinde switch veriyi gönderen cihazın MAC adresini ve verinin gönderildiği kapıyı(portu) adres tablosuna kaydeder. Bir sonraki gönderimde adres tablosundaki bilgiler incelenir ve MAC adresinin bağlı olduğu kapı tespit edilir. Eğer henüz böyle bir kayıt bulunmuyorsa veri, gönderen kapı hariç tüm kapılara gönderilir ve hedef kapı bulunduğunda tabloya kaydedilir.  
+
+	Switch, MAC adresleri ile kontrol yaptığından OSI'ın ikinci katmanında bulunur.
 
 3. **Bridge**
 
