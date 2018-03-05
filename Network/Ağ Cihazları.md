@@ -6,7 +6,15 @@
 
 	Sadece veri taşıyıp herhangi bir kontrol yapmadığı için OSI'ın birinci katmanında bulunur.
 
-2. **Switch**
+2. **Repeater**
+
+	*TODO*
+
+3. **Bridge**
+
+	En az iki, bağımsız, aynı protokolü kullanan ağları birbirine bağlayarak sanki tek bir ağ imiş gibi davranmalarını sağlar. Aynı bridge'e bağlanan farklı ağlardaki cihazlar birbirine veri göndermek isterse bridge verileri inceler ve adreslerini kontrol eder. Adres, karşı ağda bulunuyorsa üzerinden geçmesine izin verir. İşte faydalı olduğu noktası burasıdır. Eğer gönderilecek verinin adresi, bridge'e bağlı diğer ağlardan birinde değilse, yani kendi bulunduğu ağ içerisinde ise trafiğe katılmaz. Böylece performans kazandırmış olur.
+
+4. **Switch**
 	
 	Temel mantığı hub gibi paylaşım yolu sunmaktır. Tek farkı **anahtarlama*** yapmasıdır. Anahtarlama sayesinde iki cihaz haberleşirken diğerleri de kendi aralarında haberleşebilir. Yani ağın boşalmasını beklemeden, ağı ortak kullanabilirler.  
 
@@ -14,27 +22,19 @@
 
 	Switch, MAC adresleri ile kontrol yaptığından OSI'ın ikinci katmanında bulunur.
 
-3. **Bridge**
-
-	En az iki, bağımsız, aynı protokolü kullanan ağları birbirine bağlayarak sanki tek bir ağ imiş gibi davranmalarını sağlar. Aynı bridge'e bağlanan farklı ağlardaki cihazlar birbirine veri göndermek isterse bridge verileri inceler ve adreslerini kontrol eder. Adres, karşı ağda bulunuyorsa üzerinden geçmesine izin verir. İşte faydalı olduğu noktası burasıdır. Eğer gönderilecek verinin adresi, bridge'e bağlı diğer ağlardan birinde değilse, yani kendi bulunduğu ağ içerisinde ise trafiğe katılmaz. Böylece performans kazandırmış olur.
-
-4. **Router**
+5. **NIC (Network Interface Card / Ağ Arabirim Kartı)**
 
 	*TODO*
 
-5. **Gateway**
+6. **Router**
 
 	*TODO*
 
-6. **Repeater**
+7. **Gateway**
 
 	*TODO*
 
-7. **Firewall**
-
-	*TODO*
-
-8. **NIC (Network Interface Card / Ağ Arabirim Kartı)**
+8. **Firewall**
 
 	*TODO*
 
