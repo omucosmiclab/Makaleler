@@ -2,11 +2,13 @@
 
 1. **Repeater**
 
-	*TODO*
+	Bir portuna gelen sinyali, çok zayıflatmadan ya da bozmadan iletebileceği maksimum uzaklığa kadar aynı ağ üzerinde yineleyerek diğer portuna aktarır. Unutulmaması gereken nokta, repeater yaptığı işin, yani sinyali zayıflattığının farkındadır. Eğer sinyal üzerinde bir bozma yaparsa sinyali bit cinsinden kaydeder ve orijinal gücünde yeniden üretir. 2 portludur.  
+
+	Yaptığı iş ek bir kontrol gerektirmediğinden OSI'ın birinci katmanında bulunur.
 
 2. **Hub**
 
-	Temelde kendisine bağlı cihazlara paylaşım yolu sunar ve tüm cihazlar bu yolu kullanır. En basit, aynı zamanda en aptal ağ cihazıdır. Böyle söylenmesinin sebebi, kendisine gelen verinin hangi adrese gideceğinin kontrolünü yapamamasından ve veriyi tüm portlara göndermesinden kaynaklıdır. (Bu noktada kontrolü cihaz yapar, eğer veri kendisine gelmişse kabul eder.) Tek bir veri gönderiminde tüm portlar meşgul olacağından aynı anda birden fazla iletim gerçekleştiremez, diğer iletimler için yolun boşalmasını bekler. Onunla birlikte cihazlar da bekleyeceği için performans düşer, ağ trafiği yoğunlaşır.  
+	Temelde bir repeater türündendir. Ancak birden fazla porta sahiptir ve kendisine bağlı cihazlara paylaşım yolu sunar. Tüm cihazlar bu yolu kullanır. En aptal ağ cihazıdır. Böyle söylenmesinin sebebi, kendisine gelen verinin hangi adrese gideceğinin kontrolünü yapamamasından ve veriyi tüm portlara göndermesinden kaynaklıdır. (Bu noktada kontrolü cihaz yapar, eğer veri kendisine gelmişse kabul eder.) Tek bir veri gönderiminde tüm portlar meşgul olacağından aynı anda birden fazla iletim gerçekleştiremez, diğer iletimler için yolun boşalmasını bekler. Onunla birlikte cihazlar da bekleyeceği için performans düşer, ağ trafiği yoğunlaşır.  
 
 	Sadece veri taşıyıp herhangi bir kontrol yapmadığı için OSI'ın birinci katmanında bulunur.
 
