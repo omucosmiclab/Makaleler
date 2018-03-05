@@ -1,14 +1,14 @@
 ## Ağ Cihazları
 
-1. **Hub**
+1. **Repeater**
+
+	*TODO*
+
+2. **Hub**
 
 	Temelde kendisine bağlı cihazlara paylaşım yolu sunar ve tüm cihazlar bu yolu kullanır. En basit, aynı zamanda en aptal ağ cihazıdır. Böyle söylenmesinin sebebi, kendisine gelen verinin hangi adrese gideceğinin kontrolünü yapamamasından ve veriyi tüm portlara göndermesinden kaynaklıdır. (Bu noktada kontrolü cihaz yapar, eğer veri kendisine gelmişse kabul eder.) Tek bir veri gönderiminde tüm portlar meşgul olacağından aynı anda birden fazla iletim gerçekleştiremez, diğer iletimler için yolun boşalmasını bekler. Onunla birlikte cihazlar da bekleyeceği için performans düşer, ağ trafiği yoğunlaşır.  
 
 	Sadece veri taşıyıp herhangi bir kontrol yapmadığı için OSI'ın birinci katmanında bulunur.
-
-2. **Repeater**
-
-	*TODO*
 
 3. **Bridge**
 
