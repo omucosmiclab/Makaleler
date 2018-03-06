@@ -35,18 +35,26 @@
 
 6. **Router**
 
-	Router, veri paketlerini switch benzeri bir anahtarlama yöntemi ile yönlendiren ağ cihazıdır. Ancak bu anahtarlamayı bilgisayarların MAC adreslerine göre değil, IP adreslerine göre yapar. Peki bu noktada bridge'den farkı nedir? Router, çok büyük-karmaşık ağları birbirine bağlayabilir, trafiği sınırlandırabilir ve veriyi aktarırken seçilecek en iyi yola karar verebilir. Aynı zamanda bridge gibi iki ağı birbirine bağlamak için aynı protokolü kullanmaları şartına gerek duymaz.  
+	Router, veri paketlerini switch benzeri bir anahtarlama yöntemi ile yönlendiren ağ cihazıdır. Ancak bu anahtarlamayı bilgisayarların MAC adreslerine göre değil, IP adreslerine göre yapar. Peki bu noktada bridge'den farkı nedir? Router, çok büyük-karmaşık ağları birbirine bağlayabilir, trafiği sınırlandırabilir ve veriyi aktarırken seçilecek en iyi yola karar verebilir. Aynı zamanda bridge gibi iki ağı birbirine bağlamak için aynı protokolü kullanmaları şartına gerek duymaz. Ancak ağların benzer teknolojileri kullanmalarını bekler.  
 
 	IP adresleriyle işlem yaptığından OSI'ın üçüncü katmanında bulunur.
 
 7. **Gateway**
 
+	Router ve bridge gibi iki farklı ağı birbirine bağlayarak trafiğin düzenlenmesinde görev alır. Ancak onlara göre çok daha gelişmiş bir cihazdır. Farklı protıkolleri kullanan ağların yanında farklı teknolojileri kullanan ağlarında birbirleriyle haberleşmesini sağlar. Bunu kendi içerisinde birtakım dönüşümler ile gerçekleştirir.  
+
+	Peki bu farklı teknoloji dediğimiz şey tam olarak nedir? Örneğin; ATM teknolojisine sahip bir ağ ile Ethernet teknolojisine sahip bir ağ, gateway sayesinde haberleşebilir.  
+
+	Dönüşümleri yaparken IP adreslerini kullandığı için OSI'ın üçüncü katmanında yer alır.
+
+8. **Modem**
+
 	*TODO*
 
-8. **Firewall**
+9. **Access Point**
 
 	*TODO*
 
-9. **Modem**
+10. **Firewall**
 
 	*TODO*
