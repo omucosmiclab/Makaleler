@@ -28,7 +28,7 @@
 
 5. **NIC (Network Interface Card / Ağ Arabirim Kartı)**
 
-	*TODO*
+	Bilgisayarın ağa bağlanmasını, bir başka bilgisayar ile ağ kurmasını sağlayan karttır. MAC adresi ile de desteklendiğinden ağdaki bilgisayarların OSI'ın birinci ve ikinci katmanına ait aygıtlarmış gibi iletişim kurmalarına imkan sağlar. Aynı zamanda protokol kontrol yazılımına da sahiptir. 
 
 6. **Router**
 
