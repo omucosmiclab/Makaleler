@@ -69,11 +69,11 @@ Veri iletimi sırasında bir hata meydana gelirse bunun bilgisi CRC içerisinde 
 
 MAC bölümü, mac adreslerinin yanında bir de işte bu CRC kodunu ekler. Gönderici tarafta veri paketini fiziksel katmana aktarırken; alıcı tarafta veriyi LLC'ye yönlendirir.
 
+Saldırılarda MAC ve ARP ataklarının da önemli bir yeri vardır. MAC ve ARP protokollerine ve bu protokollere değinen saldırılara burada detayıyla yer verilmeyecektir.  Ancak örnek vermek gerekirse MAC Flooding, ARP Poisoning/ARP Spoofing gibi saldırılar katman 2 saldırılarındandır.
+
 > PROTOKOLLER: _MAC, ARP, Ethernet, HDLC_...
 
-	Saldırılarda MAC ve ARP ataklarının da önemli bir yeri vardır. MAC ve ARP protokollerine ve bu protokollere değinen saldırılara burada detayıyla yer verilmeyecektir.  Ancak örnek vermek gerekirse MAC Flooding, ARP Poisoning/ARP Spoofing gibi saldırılar katman 2 saldırılarındandır.
-
-
+	
 ##### **LAYER 3/ AĞ KATMANI**
 
 Verinin ağ içerisindeki yönlendirimi, akış trafiği bu katmanda yönetilir. Ağ katmanında veri üzerinde bir çok manipulasyon (enkapsülasyon, dekapsülasyon, adresleme, yönlendirme) gerçekleştirilir. 
@@ -101,7 +101,7 @@ parçanın son parça olduğu belirtilir. Hem MF hem Fragment Offset 0 ise bu, v
 Layer 4 oturum ve uygulama katmanları için standartlaştırılmış erişim sağlar. Yani iletişim ağının özelliklerine göre herhangi bir düzenleme yapılması gerekmez. Böylece üst katmanlar teknolojik 
 değişikliklerden izole edilmiş olur. Temel olarak taşıma katmanı, gönderici tarafta üst katmanlardan gelen veriyi parçalar; alıcı tarafta ise gelen veri parçalarının doğru sırayla birleştirilmesi işlemlerinden sorumludur denebilir.  Layer 4te üst katmandan gelen veriler segmentlere dönüştürülür. Segmentler ağ paketi boyutundadır. 
 
-Taşıma katmanı veri akışının kalitesini artırma (QoS  Quality of Service), güvenilirlik, hata kontrolü, zamanında ulaştırma ya da bunun kontrolü, akış denetimi, çoklama gibi işlemler gerçekleştirir. 
+Taşıma katmanı veri akışının kalitesini artırma (QoS = Quality of Service), güvenilirlik, hata kontrolü, zamanında ulaştırma ya da bunun kontrolü, akış denetimi, çoklama gibi işlemler gerçekleştirir. 
 Güvenilirlik durumu taşıma katmanında kullanılan protokolle alakalı bir durumdur. Örneğin TCP/IP protokolünde cihazlar arası bir denetim söz konusu iken UDP protokolünde herhangi bir denetim yapılmaz.
 Taşıma işlemi, mesajın alıcı taşıma katmanına herhangi bir hata olmadan ulaşmasını sağlamak için uçtan uca gerçekleştirilir eğer hata varsa bu, mesajın yeniden iletilmesi ile düzeltilir.
 Çoklama ise aynı ağ üzerinde birden fazla uygulamanın kullanılmasına izin verir. Ayrıca bazı uygulamalar paket yerine direkt baytları kabul eder bu durumda da taşıma katmanı bayt odaklı veri akışını yönetebilir.
