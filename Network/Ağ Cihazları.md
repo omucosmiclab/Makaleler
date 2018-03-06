@@ -27,13 +27,17 @@
 
 3. **Bridge**
 
-	Sinyal yelpazesini genişletebilen bir repeater gibi düşünülebilir. En az iki, bağımsız, aynı protokolü kullanan ağları birbirine bağlayarak sanki tek bir ağ imiş gibi davranmalarını sağlar. Aynı bridge'e bağlanan farklı ağlardaki cihazlar birbirine veri göndermek isterse bridge verileri inceler ve adreslerini kontrol eder. Adres, karşı ağda bulunuyorsa üzerinden geçmesine izin verir. İşte faydalı olduğu noktası burasıdır. Eğer gönderilecek verinin adresi, bridge'e bağlı diğer ağlardan birinde değilse, yani kendi bulunduğu ağ içerisinde ise trafiğe katılmaz. Böylece performans kazandırmış olur.  
+	Hub ve Switch yardımıyla aynı ağdaki bilgisayarları birbirleri ile haberleştirebiliyorduk. Ancak bunları kullanarak iki farklı ağın birbirleri ile haberleşmesini mümkün kılamayız. Bu işlevi gerçekleştirmek için kullanılabilecek cihazlardan birisi bridge idir. Sinyal yelpazesini genişletebilen bir repeater gibi de düşünülebilir.  
+
+	En az iki, bağımsız, aynı protokolü kullanan ağları birbirine bağlayarak sanki tek bir ağ imiş gibi davranmalarını sağlar. Aynı bridge'e bağlanan farklı ağlardaki cihazlar birbirine veri göndermek isterse bridge verileri inceler ve adreslerini kontrol eder. Adres, karşı ağda bulunuyorsa üzerinden geçmesine izin verir. İşte faydalı olduğu noktası burasıdır. Eğer gönderilecek verinin adresi, bridge'e bağlı diğer ağlardan birinde değilse, yani kendi bulunduğu ağ içerisinde ise trafiğe katılmaz. Böylece performans kazandırmış olur.  
 
 	İnceleme işleminde MAC adreslerine göre filtreleme yaptığından OSI'ın ikinci katmanında bulunur.
 
 6. **Router**
 
-	*TODO*
+	Router, veri paketlerini switch benzeri bir anahtarlama yöntemi ile yönlendiren ağ cihazıdır. Ancak bu anahtarlamayı bilgisayarların MAC adreslerine göre değil, IP adreslerine göre yapar. Peki bu noktada bridge'den farkı nedir? Router, çok büyük-karmaşık ağları birbirine bağlayabilir, trafiği sınırlandırabilir ve veriyi aktarırken seçilecek en iyi yola karar verebilir. Aynı zamanda bridge gibi iki ağı birbirine bağlamak için aynı protokolü kullanmaları şartına gerek duymaz.  
+
+	IP adresleriyle işlem yaptığından OSI'ın üçüncü katmanında bulunur.
 
 7. **Gateway**
 
