@@ -49,11 +49,11 @@
 
 8. **Modem**
 
-	Modemler, gatewayler gibi kendi içlerinde dönüşüm yapmaktadırlar. Bilgisayardan gelen dijital sinyalleri, ev telefonlarının analog sinyallerine çevirir (Veri gönderirken bu işlemi yaparken veri alma sırasında tersi işlem yapar.) ve bu sayede bilgisayar internete çıkabilir. Unutulmaması gereken nokta, evimize bir modem bağlandığında 1 adet IP adresi verilir. Yani modem ile yalnızca tek bir cihaz internete çıkabilir. Birden fazla cihazı internete çıkartmak için, yönlendirme yapan diğer ağ cihazlarından destek alınır ve bu sayede verilen IP adresi bölüştürülür.
+	Modemler, gatewayler gibi kendi içlerinde dönüşüm yapmaktadırlar. Bilgisayardan gelen dijital sinyalleri, ev telefonlarının analog sinyallerine çevirir (Veri gönderirken bu işlemi yaparken veri alma sırasında tersi işlem yapar.) ve bu sayede bilgisayar internete çıkabilir. Unutulmaması gereken nokta, evimize bir modem bağlandığında 1 adet IP adresi verilir. Yani modem ile yalnızca tek bir cihaz internete çıkabilir. Birden fazla cihazı internete çıkartmak için, yönlendirme yapan diğer ağ cihazlarından (hub, router vs.) destek alınır ve bu sayede verilen IP adresi bölüştürülür.
 
 9. **Access Point**
 
-	*TODO*
+	Yerel ağı kablosuz ortama taşımaya yarayan ağ cihazıdır. Yani evimizde bir modem varken laptop'ımızı ya da cep telefonumuzu kablosuz olarak internete bağlamamızı sağlar. Yine modem gibi diğer ağ cihazlarından destek alır.
 
 10. **Firewall**
 
