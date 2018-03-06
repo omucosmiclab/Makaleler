@@ -57,4 +57,9 @@
 
 10. **Firewall**
 
-	*TODO*
+	Güvenlik duvarı olarak isimlendirdiğimiz bu cihaz, bizi internetten gelebilecek kötü yazılımlar, virüsler gibi zarar verecek şeylerden koruma amacı taşır. Kendi içerisinde birtakım kurallar ile gelmesine rağmen istenilen kısıtlamaları getirme ya da kaldırma ayarları sonradan yapılabilmektedir. Tabi ki bizi her şeyden koruduğunu, koruyacağını söylemek yanlış olur. Çünkü iyi bir konfigürasyon ayarlanmaz ise firewall görevini gerçekleştiremeyebilir.
+
+
+
+
+*Düzlenlemeler ve eklemeler yapılacaktır.*
