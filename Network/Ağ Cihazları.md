@@ -49,7 +49,7 @@
 
 8. **Modem**
 
-	*TODO*
+	Modemler, gatewayler gibi kendi içlerinde dönüşüm yapmaktadırlar. Bilgisayardan gelen dijital sinyalleri, ev telefonlarının analog sinyallerine çevirir (Veri gönderirken bu işlemi yaparken veri alma sırasında tersi işlem yapar.) ve bu sayede bilgisayar internete çıkabilir. Unutulmaması gereken nokta, evimize bir modem bağlandığında 1 adet IP adresi verilir. Yani modem ile yalnızca tek bir cihaz internete çıkabilir. Birden fazla cihazı internete çıkartmak için, yönlendirme yapan diğer ağ cihazlarından destek alınır ve bu sayede verilen IP adresi bölüştürülür.
 
 9. **Access Point**
 
